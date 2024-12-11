@@ -1,7 +1,7 @@
 # Title: 2024 Sejong Autonomous Driving Data Utilization AI Competition<br/>
 ## Topic: Human Object Detection In Images<br/>
-## Period: 2024.02 - 2023.02 <br/>
-## Prize: x<br/>
+## Period: 2024.02 - 2024.02 <br/>
+
 
 ### Announcement Document:<br/>
 ![공고](https://github.com/user-attachments/assets/57a9fd78-5ecf-4c3f-93b2-da173a38a276)
