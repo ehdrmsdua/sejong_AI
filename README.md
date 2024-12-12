@@ -1,6 +1,12 @@
 # Title: 2024 Sejong Autonomous Driving Data Utilization AI Competition<br/>
 ## Topic: Human Object Detection In Images<br/>
 ## Period: 2024.02 - 2024.02 <br/>
+## TEAM:<br/>
+Leader : <br/>
+Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
+Member : <br/>
+Chanmin LEE - Sangmyung Univ_Computer Science <br/>
+Jimin HWANG - Dongguk Univ_Information Communication Engineering <br/>
 
 
 ### Announcement Document:<br/>
