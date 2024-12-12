@@ -4,7 +4,7 @@
 ## TEAM:<br/>
 ### Leader : <br/>
 [#1589F0](Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering) <br/>
-$\color{#87CEEB}{(Donggeun~YEOM~-~Sungkyul~Univ_Industrial~Management~Engineering}$
+$\color{#87CEEB}{(Donggeun ~ YEOM ~ - ~ Sungkyul ~ Univ_Industrial ~ Management ~ Engineering}$
 
 ### Member : <br/>
 Chanmin LEE - Sangmyung Univ_Computer Science <br/>
