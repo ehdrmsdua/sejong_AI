@@ -3,7 +3,7 @@
 ## Period: 2024.02 - 2024.02 <br/>
 ## TEAM:<br/>
 ### Leader : <br/>
-Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
 
 ### Member : <br/>
 Chanmin LEE - Sangmyung Univ_Computer Science <br/>
