@@ -5,7 +5,7 @@
 ### Leader : <br/>
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
 
-### Member : <br/>
+### Members : <br/>
 Chanmin LEE - Sangmyung Univ_Computer Science <br/>
 Jimin HWANG - Dongguk Univ_Information Communication Engineering <br/>
 
