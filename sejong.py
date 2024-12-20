@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1MzXv4ErXJV1AWQNuVaoe2X7ONnELaVPu
 """
 
-# 필요 코드 필수
 !pip install segmentation_models_pytorch
 
 import torch
